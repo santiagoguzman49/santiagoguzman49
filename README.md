@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/santiagoguzman49/My-Space/blob/main/Baner%20Santiago.png)
+![ProfileBanner](https://github.com/santiagoguzman49/My-Space/blob/main/Baner%20Santiago.png)
 
 <div>
     <div align=center>
