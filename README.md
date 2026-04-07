@@ -271,8 +271,8 @@ If you have any questions about web development, writing mistake-free documentat
   </td>
   </tr>
 </table>
-</details>
 
+</details>
 ![Bottom of pokeball](https://github.com/santiagoguzman49/My-Space/blob/main/Bottom-breafcase.png)
 
 </div>
