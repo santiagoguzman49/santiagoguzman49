@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/santiagoguzman49/My-Space/blob/main/Santiago%20Guzman%20Baner.png)
+[![ProfileBanner](https://github.com/santiagoguzman49/My-Space/blob/main/Baner%20Santiago.png)
 
 ### About me🧑:
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
