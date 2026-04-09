@@ -12,21 +12,21 @@
     <div align=left>
         <br>
         <p>
-            <strong>
-                Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
-                I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-                I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
-            </strong>
-        </p>
-        <ul>
-            <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li>
-            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
-            <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016">Link to my UpWork Full Stack Development Specialization</a>.</li
+           <strong>
+    Business Management Graduate, Former Operational Auditor, and Aspiring Data Analyst.<br><br>
+    I specialize in Power BI, Python, and SQL, with experience generating weekly reports and detecting inventory discrepancies. I have a background in operational auditing, inventory control, logistics, and foreign trade operations. Good at problem-solving, root-cause analysis, data visualization, and communicating insights to operational teams.<br><br>
+    I am passionate about data analytics, business intelligence, process optimization, and continuous improvement.<br><br>
+    Detail-oriented, responsible, and committed professional, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and collaborative.
+</strong>
+<ul>
+    <li>🌱 <b>I’m currently learning</b>: Data Analytics, Python for data, Power BI, and SQL.</li>
+    <li>🎯 <b>I’m currently focusing on</b>: Building my data portfolio and applying analytical thinking to real business problems.</li>
+    <li>🤔 <b>I’m currently open for</b>: A Junior Data Analyst, BI Analyst, or Operations Analyst position. <a href="LINK_TO_YOUR_RESUME">LINK TO MY RESUME</a>.</li>
+    <li>💬 <b>Ask me about</b>: Operational auditing, inventory control, weekly reporting, or how to transition into data analytics.</li>
+    <li>📫 <b>How to reach me</b>: santiago.guzman4909@gmail.com or follow me from the links above 👆.</li>
+    <li>😄 <b>Fun fact</b>: I love cars (🚗), coding (💻), traveling (🌍), and photography (📷).</li>
+    <li>👨‍💻 <b>Check my portfolio</b>: My GitHub repositories below showcase my Power BI dashboards, Python analysis, and SQL queries.</li>
+</ul>
   
 <Br>
 <hr>
