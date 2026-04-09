@@ -68,7 +68,10 @@
 <br>
 <div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Austinae;aka+William+Guerrand;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Chess+lover;Confident+and+ambitious;Long-distance+athlete;Young+at+heart;Guitar+player;Thrill+seeker" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=2000&color=1E90FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+data+portfolio!;My+professional+profile%3A;Business+Management+Graduate;Former+Operational+Auditor;Aspiring+Data+Analyst;Problem+Solver;Power+BI+%7C+Python+%7C+SQL;Open+to+JR+Analyst+roles!" 
+       alt="Typing SVG" />
+</a>
   </div>
 </div>
 
