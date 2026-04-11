@@ -53,7 +53,7 @@
 <Br>
 <hr>
 <Br>
-<h1>Some of my Projects! 🎨</h1>
+<h1 align="center">Some of my Projects! 🎨</h1>
 <Br>
 
 <div align="center">
@@ -62,7 +62,7 @@
 ![Top of pokeball](https://github.com/santiagoguzman49/My-Space/blob/main/Top-Breaf.png)
 
 <details>
-<summary>Open profile</summary>
+<summary><h2>Open profile</h2></summary>
 
 [comment]: <> (View Counter)
 <br>
@@ -120,7 +120,6 @@ Open Google Colab Notebook
 </div>
 
 <div align=center>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
 
 <Br>
 <hr>
