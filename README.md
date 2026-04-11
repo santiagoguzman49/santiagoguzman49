@@ -109,10 +109,29 @@ Open Google Colab Notebook
 <details>
 <summary>Tools</summary>
 <div>
+
+<details>
+<summary>Tools</summary>
+<div>
   
 </table>
 </details>
 
+</details>
+
+<details>
+<summary>Tools</summary>
+<div>
+hola  
+</table>
+</details>
+
+</details>
+<details>
+<summary>Tools</summary>
+<div>
+  
+</table>
 </details>
 
 ![Bottom of pokeball](https://github.com/santiagoguzman49/My-Space/blob/main/Bottom-breafcase.png)
