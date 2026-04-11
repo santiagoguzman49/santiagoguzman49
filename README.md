@@ -76,10 +76,30 @@
 </div>
 
 <details>
-<summary>Power BI</summary>
+<summary>🐍 Data Preparation & Analysis (Python)</summary>
 
 <div align="left">
 
+<p>
+Python (Pandas) was used for data exploration, cleaning, and preliminary analysis to ensure data quality and support business insights.
+</p>
+
+<h3>Key Tasks</h3>
+<ul>
+<li>Data cleaning (handling missing values and duplicates)</li>
+<li>Date formatting and transformation</li>
+<li>Aggregation and grouping (sales by category and product)</li>
+</ul>
+
+<h3>Notebook Preview</h3>
+<img src="images/python_analysis.png" width="600"/>
+
+<h3>View Full Notebook</h3>
+<p>
+<a href="PASTE_YOUR_COLAB_LINK_HERE" target="_blank">
+Open Google Colab Notebook
+</a>
+</p>
 
 
 </div>
