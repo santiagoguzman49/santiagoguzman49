@@ -66,15 +66,16 @@
 
 [comment]: <> (View Counter)
 <br>
-<div>
-  <div align=center>
-      <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=2000&color=1E90FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+data+portfolio!;My+professional+profile%3A;Business+Management+Graduate;Former+Operational+Auditor;Aspiring+Data+Analyst;Problem+Solver;Power+BI+%7C+Python+%7C+SQL;Open+to+JR+Analyst+roles!" 
-       alt="Typing SVG" />
+
+<div align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=2000&color=1E90FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+data+portfolio!;My+professional+profile%3A;Business+Management+Graduate;Former+Operational+Auditor;Aspiring+Data+Analyst;Problem+Solver;Power+BI+%7C+Python+%7C+SQL;Open+to+JR+Analyst+roles!" />
 </a>
-  </div>
 </div>
 
+<br>
+
+<!-- PYTHON -->
 <details>
 <summary>🐍 Data Preparation & Analysis (Python)</summary>
 
@@ -101,37 +102,64 @@ Open Google Colab Notebook
 </a>
 </p>
 
+</div>
+</details>
 
+<br>
+
+<!-- TOOLS 1 -->
+<details>
+<summary><b>🛠️ Tools</b></summary>
+
+<div align="left">
+<ul>
+hola
+</ul>
 </div>
 
 </details>
 
-<details>
-<summary>Tools</summary>
-<div>
+<br>
 
+<!-- TOOLS 2 -->
 <details>
-<summary>Tools</summary>
-<div>
-  
-</table>
-</details>
+<summary><b>🛠️ Tools</b></summary>
 
-</details>
-
-<details>
-<summary>Tools</summary>
-<div>
-hola  
-</table>
-</details>
+<div align="left">
+<ul>
+hola
+</ul>
+</div>
 
 </details>
+
+<br>
+
+<!-- TOOLS 3 -->
 <details>
-<summary>Tools</summary>
-<div>
-  
-</table>
+<summary><b>🛠️ Tools</b></summary>
+
+<div align="left">
+<ul>
+hola
+</ul>
+</div>
+
+</details>
+
+<br>
+
+<!-- TOOLS 4 -->
+<details>
+<summary><b>🛠️ Tools</b></summary>
+
+<div align="left">
+<ul>
+hola
+</ul>
+</div>
+
+</details>
 </details>
 
 ![Bottom of pokeball](https://github.com/santiagoguzman49/My-Space/blob/main/Bottom-breafcase.png)
