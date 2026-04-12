@@ -93,13 +93,13 @@ Python (Pandas) was used for data exploration, cleaning, and preliminary analysi
 </ul>
 
 <h3>Notebook Preview</h3>
-<h4>Importar librerias</h4>
+<h4>Import Libraries</h4>
 <img src="https://github.com/santiagoguzman49/Capturas/blob/main/Importar_librerias.png" width="600"/>
-<h4>Limpiar Data</h4>
+<h4>Clean Data</h4>
 <img src="https://github.com/santiagoguzman49/Capturas/blob/main/Limpiar_data.png" width="600"/>
-<h4>Analisis Rapido</h4>
+<h4>Quick Analisis</h4>
 <img src="https://github.com/santiagoguzman49/Capturas/blob/main/Analisis_rapido.png" width="600"/>
-<h4>Guardar limpio</h4>
+<h4>Clean Save</h4>
 <img src="https://github.com/santiagoguzman49/Capturas/blob/main/Guardar%20en%20limpio.png" width="600"/>
     
 <h3>View Full Notebook</h3>
