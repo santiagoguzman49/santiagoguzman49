@@ -130,16 +130,17 @@ The objective of this analysis is to identify key revenue drivers and provide ac
 <h2>📊 Dashboard Overview</h2>
 
 <h3>🔹 Main Dashboard</h3>
-<img src="images/dashboard.png" width="600"/>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/Main-dash.png"/>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/Main.png"/>
 
 <h3>🔹 Sales by Category</h3>
-<img src="images/category_sales.png" width="600"/>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/Salesbycategory.png" width="600"/>
 
 <h3>🔹 Top Products</h3>
-<img src="images/top_products.png" width="600"/>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/Top%20Products.png" width="600"/>
 
 <h3>🔹 Sales Trend Over Time</h3>
-<img src="images/sales_trend.png" width="600"/>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/Sales%20Trend%20Over%20Time.png" width="600"/>
 
 <h2>🔍 Key Insights</h2>
 <ul>
@@ -160,7 +161,6 @@ The objective of this analysis is to identify key revenue drivers and provide ac
 <h2>🛠️ Tools & Technologies</h2>
 <ul>
 <li>Power BI</li>
-<li>(Optional) Python</li>
 </ul>
 
 <h2>📂 Dataset</h2>
@@ -171,7 +171,6 @@ Source: Superstore Sales Dataset (Kaggle)
 <h2>📎 Project Files</h2>
 <ul>
 <li>📊 Power BI Dashboard: Superstore.pbix</li>
-<li>🐍 Data Analysis Notebook (optional): analysis.ipynb</li>
 </ul>
 
 <h2>🎯 Final Recommendation</h2>
@@ -181,8 +180,7 @@ Prioritize high-performing products and align marketing efforts with seasonal de
 
 <h2>👤 Author</h2>
 <p>
-Your Name <br/>
-(Optional: LinkedIn / GitHub profile link)
+Santiago Guzmán <br/>
 </p>
 </ul>
 </div>
@@ -232,10 +230,4 @@ hola
 
 You can look at them by clicking
 
-|[![](https://img.shields.io/badge/Power%20BI-Green?style=for-the-badge)](https://github.com/santiagoguzman49/My-Space/blob/main/Power%20bi.pdf)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
-|---|---|---|---|
-|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
-
-<Br>
-
------
+|[![](https://img.shields.io/badge/%F0%9F%93%8APower_BI-yellow?style=for-the-badge)](https://github.com/santiagoguzman49/My-Space/blob/main/Power%20bi.pdf)|[![](https://img.shields.io/badge/%F0%9F%93%81Excel_Advanced-green?style=for-the-badge)](https://github.com/santiagoguzman49/My-Space/blob/main/Excel%20Avanzado.pdf)|[![](https://img.shields.io/badge/%F0%9F%90%8DPython-purple?style=for-the-badge)](https://github.com/santiagoguzman49/My-Space/blob/main/Python.pdf)|
