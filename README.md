@@ -93,11 +93,18 @@ Python (Pandas) was used for data exploration, cleaning, and preliminary analysi
 </ul>
 
 <h3>Notebook Preview</h3>
-<img src="images/python_analysis.png" width="600"/>
-
+<h4>Importar librerias</h4>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/Importar_librerias.png" width="600"/>
+<h4>Limpiar Data</h4>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/Limpiar_data.png" width="600"/>
+<h4>Analisis Rapido</h4>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/Analisis_rapido.png" width="600"/>
+<h4>Guardar limpio</h4>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/Guardar%20en%20limpio.png" width="600"/>
+    
 <h3>View Full Notebook</h3>
 <p>
-<a href="PASTE_YOUR_COLAB_LINK_HERE" target="_blank">
+<a href="https://colab.research.google.com/drive/1qf1ysjW6jzUjYFXIrN3Wvens-mrOwB6y?authuser=1#scrollTo=E0eI4fiI8k0h" target="_blank">
 Open Google Colab Notebook
 </a>
 </p>
@@ -107,27 +114,76 @@ Open Google Colab Notebook
 
 <br>
 
-<!-- TOOLS 1 -->
-<details>
-<summary><b>🛠️ Tools</b></summary>
-
-<div align="left">
-<ul>
-hola
-</ul>
-</div>
-
-</details>
-
-<br>
-
 <!-- TOOLS 2 -->
 <details>
-<summary><b>🛠️ Tools</b></summary>
+<summary><b>📊 Sales Data Analysis & Business Insights (Power BI)</b></summary>
 
 <div align="left">
 <ul>
-hola
+
+<h2>🧠 Business Problem</h2>
+<p>
+The company lacks clarity on which products and categories drive the most revenue and how sales behave over time.
+The objective of this analysis is to identify key revenue drivers and provide actionable recommendations to improve business performance.
+</p>
+
+<h2>📊 Dashboard Overview</h2>
+
+<h3>🔹 Main Dashboard</h3>
+<img src="images/dashboard.png" width="600"/>
+
+<h3>🔹 Sales by Category</h3>
+<img src="images/category_sales.png" width="600"/>
+
+<h3>🔹 Top Products</h3>
+<img src="images/top_products.png" width="600"/>
+
+<h3>🔹 Sales Trend Over Time</h3>
+<img src="images/sales_trend.png" width="600"/>
+
+<h2>🔍 Key Insights</h2>
+<ul>
+<li>The Technology category generates the highest revenue (~$827K), indicating a strong dependence on this segment.</li>
+<li>A small number of products (e.g., Canon imageCLASS 2200) contribute disproportionately to total sales.</li>
+<li>Sales show a clear seasonal pattern, with peaks between July and December.</li>
+<li>Revenue concentration suggests a potential Pareto distribution (80/20 effect).</li>
+</ul>
+
+<h2>💡 Business Recommendations</h2>
+<ul>
+<li>Focus marketing and sales efforts on high-performing products to maximize return on investment.</li>
+<li>Increase product availability and promotion before peak months (July–December).</li>
+<li>Consider reducing focus on low-performing products to optimize operational efficiency.</li>
+<li>Leverage seasonal trends to plan inventory and campaigns more effectively.</li>
+</ul>
+
+<h2>🛠️ Tools & Technologies</h2>
+<ul>
+<li>Power BI</li>
+<li>(Optional) Python</li>
+</ul>
+
+<h2>📂 Dataset</h2>
+<p>
+Source: Superstore Sales Dataset (Kaggle)
+</p>
+
+<h2>📎 Project Files</h2>
+<ul>
+<li>📊 Power BI Dashboard: Superstore.pbix</li>
+<li>🐍 Data Analysis Notebook (optional): analysis.ipynb</li>
+</ul>
+
+<h2>🎯 Final Recommendation</h2>
+<p>
+Prioritize high-performing products and align marketing efforts with seasonal demand to maximize revenue growth while optimizing resource allocation.
+</p>
+
+<h2>👤 Author</h2>
+<p>
+Your Name <br/>
+(Optional: LinkedIn / GitHub profile link)
+</p>
 </ul>
 </div>
 
