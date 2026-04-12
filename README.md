@@ -230,5 +230,5 @@ hola
 
 You can look at them by clicking
 
-|[![](https://img.shields.io/badge/%F0%9F%93%8APower_BI-yellow?style=for-the-badge)](https://github.com/santiagoguzman49/My-Space/blob/main/Power%20bi.pdf)|[![](https://img.shields.io/badge/%F0%9F%93%81Excel_Advanced-green?style=for-the-badge)](https://github.com/santiagoguzman49/My-Space/blob/main/Excel%20Avanzado.pdf)|[![](https://img.shields.io/badge/%F0%9F%90%8DPython-purple?style=for-the-badge)](https://github.com/santiagoguzman49/My-Space/blob/main/Python.pdf)|[![](https://img.shields.io/badge/%F0%9F%A7%AEData%20Science%20Math%20Skills-red?style=for-the-badge)](%21.jpg)|
+|[![](https://img.shields.io/badge/%F0%9F%93%8APower_BI-yellow?style=for-the-badge)](https://github.com/santiagoguzman49/My-Space/blob/main/Power%20bi.pdf)|[![](https://img.shields.io/badge/%F0%9F%93%81Excel_Advanced-green?style=for-the-badge)](https://github.com/santiagoguzman49/My-Space/blob/main/Excel%20Avanzado.pdf)|[![](https://img.shields.io/badge/%F0%9F%90%8DPython-purple?style=for-the-badge)](https://github.com/santiagoguzman49/My-Space/blob/main/Python.pdf)|[![](https://img.shields.io/badge/%F0%9F%A7%AEData%20Science%20Math%20Skills-blue?style=for-the-badge)](%21.jpg)|
 
