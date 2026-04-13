@@ -191,11 +191,86 @@ Santiago Guzmán <br/>
 
 <!-- TOOLS 3 -->
 <details>
-<summary><b>🛠️ Tools</b></summary>
+<summary><b> Data Analysis & Business Insights Olist Brazilian E-Commerce (SQL) </</b></summary>
 
 <div align="left">
 <ul>
-hola
+
+<h2>🧠 Business Problem</h2>
+<p>
+Olist, a Brazilian marketplace, lacks clarity on which product categories drive the most revenue, how customer satisfaction correlates with logistics performance, and how effectively the marketing funnel converts leads into active sellers.
+The objective of this SQL-based analysis is to extract actionable insights from 100,000+ real orders using advanced queries, providing data-driven recommendations to improve operational efficiency and revenue growth.
+</p>
+
+<h2>📊 Query Results Overview</h2>
+
+<h3>🔹 Top 10 Categories by Revenue</h3>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/Top10Categories.png" width="600" alt="Top Categories by Revenue"/>
+
+<h3>🔹 Monthly Sales Trend (Seasonality)</h3>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/Monthly%20Sales%20Trend.png" width="600" alt="Monthly Sales Trend"/>
+
+<h3>🔹 Top Customers by Lifetime Value</h3>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/Top%20Customers%20by%20Lifetime%20Value.png" width="600" alt="Top Customers LTV"/>
+
+<h3>🔹 Geographic Distribution (Customers by State)</h3>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/Geographic%20Distribution.png" width="600" alt="Customers by State"/>
+
+<h3>🔹 Delivery Time vs. Review Score</h3>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/Delivery%20Time%20vs.%20Review%20Score.png" width="600" alt="Delivery Time Impact on Reviews"/>
+
+<h3>🔹 Marketing Funnel Conversion</h3>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/Marketing%20Funnel%20Conversion.png" width="600" alt="Lead to Seller Conversion"/>
+
+<h2>🔍 Key Insights</h2>
+<ul>
+<li><strong>Revenue Concentration:</strong> The <strong>Health & Beauty</strong> and <strong>Watches & Gifts</strong> categories generate the highest revenue (~$1.23M and ~$1.16M respectively), indicating a strong dependence on these segments.</li>
+<li><strong>Geographic Dominance:</strong> The state of <strong>São Paulo (SP)</strong> accounts for nearly 50% of all unique customers (40,302), representing a significant geographic concentration risk.</li>
+<li><strong>Hidden High-Value Markets:</strong> Smaller states like <strong>Paraíba (PB)</strong> and <strong>Alagoas (AL)</strong> show the highest average order values (~$191 and ~$180), suggesting untapped premium market potential in the Northeast.</li>
+<li><strong>Logistics Directly Impacts Reputation:</strong> A clear inverse correlation exists between delivery time and customer satisfaction. 5-star reviews average <strong>10.7 days</strong> delivery, while 1-star reviews average <strong>21.3 days</strong>.</li>
+<li><strong>Payment Behavior:</strong> <strong>Credit Card</strong> is the dominant payment method (74% of orders), followed by <strong>Boleto Bancário</strong> (19%).</li>
+<li><strong>Marketing Funnel Efficiency:</strong> The conversion rate from Qualified Lead (MQL) to Active Seller is <strong>10.53%</strong> (842 sellers from 8,000 qualified leads).</li>
+<li><strong>Seller Attraction by Category:</strong> <strong>Health & Beauty</strong> and <strong>Housewares</strong> attract the highest number of new sellers (73 and 65 respectively), while <strong>Baby</strong> and <strong>Auto</strong> categories yield the highest average revenue per seller (~$176 and ~$155).</li>
+<li><strong>Seasonal Sales Spike:</strong> Sales show a clear seasonal pattern, with a massive peak in <strong>November 2017</strong> (Black Friday), and sustained high performance throughout 2018.</li>
+</ul>
+
+<h2>💡 Business Recommendations</h2>
+<ul>
+<li><strong>Optimize Logistics in Underperforming Regions:</strong> Prioritize reducing delivery times in North and Northeast states (PA, MA, PB). The data shows these regions have high average ticket values but suffer from poor review scores due to slow shipping.</li>
+<li><strong>Focus Seller Acquisition on High-Ticket Niches:</strong> Shift marketing efforts to attract sellers in the <strong>Baby</strong> and <strong>Auto</strong> categories. These categories have fewer total sellers but generate significantly higher revenue per seller.</li>
+<li><strong>Geographic Diversification Strategy:</strong> Reduce dependency on São Paulo by launching targeted marketing campaigns in high-potential states like <strong>Rio de Janeiro (RJ)</strong> and <strong>Minas Gerais (MG)</strong>.</li>
+<li><strong>Inventory Planning for Black Friday:</strong> Increase stock levels for <strong>Health & Beauty</strong> and <strong>Computers & Accessories</strong> between September and November to capitalize on the seasonal demand surge.</li>
+<li><strong>Payment Gateway Optimization:</strong> Ensure the credit card checkout process is seamless and continues to support installment plans, as this is the preferred method for 3 out of 4 Brazilian customers.</li>
+</ul>
+
+<h2>🛠️ Tools & Technologies</h2>
+<ul>
+<li><strong>SQL (SQLite / Sandbox SQL):</strong> All analysis performed using advanced SQL queries.</li>
+<li><strong>SQL Techniques Used:</strong> Multi-table JOINs, Common Table Expressions (CTEs), Aggregate Functions (SUM, COUNT, AVG), Date Functions (strftime, JULIANDAY), CASE WHEN logic, and Subqueries.</li>
+<li><strong>Git & GitHub:</strong> Version control and portfolio presentation.</li>
+</ul>
+
+<h2>📂 Dataset</h2>
+<p>
+<strong>Source:</strong> Brazilian E-Commerce Public Dataset by Olist (Kaggle)<br/>
+<strong>Volume:</strong> 100,000+ real orders (2016–2018)<br/>
+<strong>Tables:</strong> 11 relational tables (orders, customers, products, sellers, payments, reviews, geolocation, leads_qualified, leads_closed, etc.)
+</p>
+
+<h2>📎 Project Files</h2>
+<ul>
+<li>🗄️ SQL Queries: <code>analysis_queries.sql</code> (Contains all 8 business queries used in this analysis)</li>
+</ul>
+
+<h2>🎯 Final Recommendation</h2>
+<p>
+Olist's growth strategy should balance category expansion with <strong>logistical infrastructure investment</strong>. The data clearly demonstrates that Brazilian customers value punctuality as much as price. By prioritizing faster delivery in high-ticket Northeastern states, Olist can improve overall seller ratings, unlock latent premium revenue, and reduce the business's over-reliance on the São Paulo market.
+</p>
+
+<h2>👤 Author</h2>
+<p>
+Santiago Guzmán <br/>
+</p>
 </ul>
 </div>
 
