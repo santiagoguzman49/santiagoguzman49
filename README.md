@@ -291,19 +291,19 @@ The objective of this end-to-end analysis is to extract actionable business inte
 
 <h3>🔹 Monthly Sales Trend (KPI Base)</h3>
 <p>Extracted monthly revenue, order count, and average order value to identify seasonality and growth patterns.</p>
-<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/sql_monthly_trend.png" width="600" alt="SQL Monthly Sales Trend"/>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/FinalMonthly%20Sales%20Trend.png" width="600" alt="SQL Monthly Sales Trend"/>
 
 <h3>🔹 Customer RFM Base Extraction</h3>
 <p>Consolidated customer purchase history to calculate Recency, Frequency, and Monetary value for segmentation.</p>
-<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/sql_rfm_base.png" width="600" alt="SQL RFM Base Extraction"/>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/FinalCustomer%20RFM%20Base.png" width="600" alt="SQL RFM Base Extraction"/>
 
 <h3>🔹 Product Performance & Inventory</h3>
 <p>Identified top-selling products and categories, alongside stock levels for reorder analysis.</p>
-<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/sql_product_performance.png" width="600" alt="SQL Product Performance"/>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/FinalProduct%20Performance.png" width="600" alt="SQL Product Performance"/>
 
 <h3>🔹 Employee Sales Summary</h3>
 <p>Aggregated sales by employee to evaluate individual performance.</p>
-<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/sql_employee_sales.png" width="600" alt="SQL Employee Sales"/>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/FinalEmployee%20Sales%20Summary.png" width="600" alt="SQL Employee Sales"/>
 
 <hr>
 
@@ -312,14 +312,14 @@ The objective of this end-to-end analysis is to extract actionable business inte
 
 <h3>🔹 RFM Segmentation Logic</h3>
 <p>Python code applying quartile-based scoring to classify customers into VIP, Loyal, At Risk, and Lost segments.</p>
-<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/python_rfm_code.png" width="600" alt="Python RFM Code"/>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/FinalPyRFM%20Segmentation%20Logic.png" width="600" alt="Python RFM Code"/>
 
 <h3>🔹 Data Cleaning & Export</h3>
 <p>Pandas DataFrames after calculating MoM growth, moving averages, and Pareto (80/20) product classification.</p>
-<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/python_dataframes.png" width="600" alt="Python DataFrames Export"/>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/FinalPyData%20Cleaning%20%26%20Export.png" width="600" alt="Python DataFrames Export"/>
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/tu-usuario/northwind-analysis/blob/main/python/northwind_etl.ipynb">
+  <a href="https://colab.research.google.com/drive/1g0FRCdALo2VHvvJp3i9opYb0wWTfMfHI?authuser=1#scrollTo=export_cell">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
 </p>
@@ -331,19 +331,15 @@ The objective of this end-to-end analysis is to extract actionable business inte
 
 <h3>🔹 Executive Summary Page</h3>
 <p>High-level KPIs, monthly revenue trend with 3-month moving average, and MoM growth gauge.</p>
-<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/dashboard_executive.png" width="600" alt="Power BI Executive Summary"/>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/FinalPwExecutive%20Summary%20Page.png" width="600" alt="Power BI Executive Summary"/>
 
 <h3>🔹 Customer Insights Page (RFM)</h3>
 <p>Donut chart of customer segments, geographical map of VIP clients, and detailed RFM table with churn risk alerts.</p>
-<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/dashboard_customers.png" width="600" alt="Power BI Customer Insights"/>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/FinalPwCustomer%20Insights%20Page.png" width="600" alt="Power BI Customer Insights"/>
 
 <h3>🔹 Product & Employee Performance</h3>
 <p>Top 10 products by revenue, category breakdown, and employee scorecard with performance ratings.</p>
-<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/dashboard_products.png" width="600" alt="Power BI Product Performance"/>
-
-<h3>🔹 Interactive Navigation</h3>
-<p>Custom buttons with bookmarks allow seamless switching between report pages.</p>
-<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/dashboard_navigation.png" width="400" alt="Power BI Navigation"/>
+<img src="https://github.com/santiagoguzman49/Capturas/blob/main/FinalPwProduct%20%26%20Employee%20Performance.png" width="600" alt="Power BI Product Performance"/>
 
 <hr>
 
