@@ -5,7 +5,7 @@
        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Santiago+%F0%9F%91%8B;Data+Enthusiast;Problem+Solver;Auditor+turned+Analyst;Open-Source+Enthusiast" alt="Headline" />
     </div>
     <div align=center>
-        <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/santiagoguzman49/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://mail.google.com/mail/u/1/?pli=1#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail" alt="Gmail" /></a>
         <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>        
     </div>
@@ -246,21 +246,12 @@ The objective of this SQL-based analysis is to extract actionable insights from 
 <h2>🛠️ Tools & Technologies</h2>
 <ul>
 <li><strong>SQL (SQLite / Sandbox SQL):</strong> All analysis performed using advanced SQL queries.</li>
-<li><strong>SQL Techniques Used:</strong> Multi-table JOINs, Common Table Expressions (CTEs), Aggregate Functions (SUM, COUNT, AVG), Date Functions (strftime, JULIANDAY), CASE WHEN logic, and Subqueries.</li>
-<li><strong>Git & GitHub:</strong> Version control and portfolio presentation.</li>
 </ul>
 
 <h2>📂 Dataset</h2>
 <p>
 <strong>Source:</strong> Brazilian E-Commerce Public Dataset by Olist (Kaggle)<br/>
-<strong>Volume:</strong> 100,000+ real orders (2016–2018)<br/>
-<strong>Tables:</strong> 11 relational tables (orders, customers, products, sellers, payments, reviews, geolocation, leads_qualified, leads_closed, etc.)
 </p>
-
-<h2>📎 Project Files</h2>
-<ul>
-<li>🗄️ SQL Queries: <code>analysis_queries.sql</code> (Contains all 8 business queries used in this analysis)</li>
-</ul>
 
 <h2>🎯 Final Recommendation</h2>
 <p>
@@ -280,11 +271,130 @@ Santiago Guzmán <br/>
 
 <!-- TOOLS 4 -->
 <details>
-<summary><b>🛠️ Tools</b></summary>
+<summary><b>🗄️ Northwind Traders – End-to-End Data Analysis Portfolio</b></summary>
 
 <div align="left">
 <ul>
-hola
+
+<h2>🧠 Business Problem</h2>
+<p>
+Northwind Traders, a global food and beverage distributor, lacks clear visibility into its sales trends, customer loyalty patterns, and product performance. Management needs actionable insights to optimize inventory, reduce customer churn, and improve sales team effectiveness.
+</p>
+<p>
+The objective of this end-to-end analysis is to extract actionable business intelligence from the Northwind database using <strong>SQL</strong> for data extraction, <strong>Python</strong> for advanced segmentation (RFM), and <strong>Power BI</strong> for executive visualization. The final deliverable is an interactive dashboard that answers critical business questions and provides data-driven recommendations.
+</p>
+
+<hr>
+
+<h2>📊 Phase 1: SQL Analysis – Query Results Overview</h2>
+<p><em>Strategic queries executed in Sandbox SQL to extract KPIs and raw data for further processing.</em></p>
+
+<h3>🔹 Monthly Sales Trend (KPI Base)</h3>
+<p>Extracted monthly revenue, order count, and average order value to identify seasonality and growth patterns.</p>
+<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/sql_monthly_trend.png" width="600" alt="SQL Monthly Sales Trend"/>
+
+<h3>🔹 Customer RFM Base Extraction</h3>
+<p>Consolidated customer purchase history to calculate Recency, Frequency, and Monetary value for segmentation.</p>
+<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/sql_rfm_base.png" width="600" alt="SQL RFM Base Extraction"/>
+
+<h3>🔹 Product Performance & Inventory</h3>
+<p>Identified top-selling products and categories, alongside stock levels for reorder analysis.</p>
+<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/sql_product_performance.png" width="600" alt="SQL Product Performance"/>
+
+<h3>🔹 Employee Sales Summary</h3>
+<p>Aggregated sales by employee to evaluate individual performance.</p>
+<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/sql_employee_sales.png" width="600" alt="SQL Employee Sales"/>
+
+<hr>
+
+<h2>🐍 Phase 2: Python ETL & Feature Engineering</h2>
+<p><em>Google Colab notebook used to load the SQLite database, perform advanced calculations, and export clean CSV files for Power BI.</em></p>
+
+<h3>🔹 RFM Segmentation Logic</h3>
+<p>Python code applying quartile-based scoring to classify customers into VIP, Loyal, At Risk, and Lost segments.</p>
+<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/python_rfm_code.png" width="600" alt="Python RFM Code"/>
+
+<h3>🔹 Data Cleaning & Export</h3>
+<p>Pandas DataFrames after calculating MoM growth, moving averages, and Pareto (80/20) product classification.</p>
+<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/python_dataframes.png" width="600" alt="Python DataFrames Export"/>
+
+<p align="center">
+  <a href="https://colab.research.google.com/github/tu-usuario/northwind-analysis/blob/main/python/northwind_etl.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+</p>
+
+<hr>
+
+<h2>📊 Phase 3: Power BI Dashboard</h2>
+<p><em>Interactive 3-page dashboard featuring DAX measures, dynamic navigation, and conditional formatting.</em></p>
+
+<h3>🔹 Executive Summary Page</h3>
+<p>High-level KPIs, monthly revenue trend with 3-month moving average, and MoM growth gauge.</p>
+<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/dashboard_executive.png" width="600" alt="Power BI Executive Summary"/>
+
+<h3>🔹 Customer Insights Page (RFM)</h3>
+<p>Donut chart of customer segments, geographical map of VIP clients, and detailed RFM table with churn risk alerts.</p>
+<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/dashboard_customers.png" width="600" alt="Power BI Customer Insights"/>
+
+<h3>🔹 Product & Employee Performance</h3>
+<p>Top 10 products by revenue, category breakdown, and employee scorecard with performance ratings.</p>
+<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/dashboard_products.png" width="600" alt="Power BI Product Performance"/>
+
+<h3>🔹 Interactive Navigation</h3>
+<p>Custom buttons with bookmarks allow seamless switching between report pages.</p>
+<img src="https://github.com/tu-usuario/northwind-analysis/blob/main/images/dashboard_navigation.png" width="400" alt="Power BI Navigation"/>
+
+<hr>
+
+<h2>🔍 Key Insights</h2>
+<ul>
+<li><strong>Revenue Concentration (Pareto Effect):</strong> The top 10 products generate approximately <strong>35%</strong> of total sales, with <strong>Beverages</strong> and <strong>Dairy Products</strong> leading category performance.</li>
+<li><strong>VIP Customer Dominance:</strong> <strong>15%</strong> of customers are classified as <strong>VIP</strong>, yet they contribute over <strong>50%</strong> of total lifetime value. These high-value clients are concentrated in <strong>Germany</strong> and the <strong>USA</strong>.</li>
+<li><strong>Churn Risk Identification:</strong> <strong>12%</strong> of the active customer base is flagged as <strong>"At Risk"</strong> (no purchase in 6+ months relative to the last order date in the dataset), representing a clear target for reactivation marketing.</li>
+<li><strong>Seasonal Sales Pattern:</strong> Sales show a consistent upward trend with noticeable peaks in <strong>Q4</strong> (November/December), aligning with holiday demand.</li>
+<li><strong>Inventory Gaps:</strong> Analysis of reorder levels identified <strong>8 products</strong> currently understocked, primarily in the <strong>Seafood</strong> and <strong>Beverages</strong> categories.</li>
+<li><strong>Employee Performance Disparity:</strong> Top performer <strong>Margaret Peacock</strong> accounts for <strong>18%</strong> of total revenue, highlighting an opportunity to replicate best practices across the sales team.</li>
+</ul>
+
+<h2>💡 Business Recommendations</h2>
+<ul>
+<li><strong>Launch a Win-Back Campaign:</strong> Target the <strong>12%</strong> of customers flagged as "At Risk" with personalized email offers referencing their previous favorite products to prevent churn.</li>
+<li><strong>Optimize Inventory for Peak Season:</strong> Increase safety stock for <strong>Beverages</strong> and <strong>Seafood</strong> ahead of the Q4 holiday spike to avoid stockouts and lost revenue.</li>
+<li><strong>Implement a Sales Mentorship Program:</strong> Leverage top performers like Margaret Peacock to train underperforming team members, focusing on upselling techniques used with VIP clients.</li>
+<li><strong>Geographic Marketing Focus:</strong> Double down on digital advertising and loyalty programs in <strong>Germany</strong> and the <strong>USA</strong>, where customer acquisition cost is justified by high lifetime value.</li>
+<li><strong>Product Rationalization:</strong> Review the bottom 20% of products (Tier C) for potential discontinuation to free up warehouse space and operational capital.</li>
+</ul>
+
+<h2>🛠️ Tools & Technologies</h2>
+<ul>
+<li><strong>SQL (SQLite / Sandbox SQL):</strong> Data extraction, complex JOINs, date functions, and preliminary aggregation.</li>
+<li><strong>Python (Pandas, NumPy):</strong> Data cleaning, RFM segmentation (quartile scoring), Pareto analysis, and CSV export automation.</li>
+<li><strong>Power BI:</strong> Data modeling, DAX measures (Time Intelligence, KPIs), interactive navigation, and conditional formatting.</li>
+<li><strong>Google Colab:</strong> Cloud-based notebook environment for reproducible Python analysis.</li>
+</ul>
+
+<h2>📂 Dataset</h2>
+<p>
+<strong>Source:</strong> Northwind Traders Sample Database (SQLite)<br/>
+</p>
+
+<h2>📎 Project Files</h2>
+<ul>
+<li>🗄️ <code>sql/northwind_analysis.sql</code> – Strategic business queries.</li>
+<li>🐍 <code>python/northwind_etl.ipynb</code> – Google Colab notebook for ETL and RFM.</li>
+<li>📊 <code>power_bi/Northwind_Dashboard.pbix</code> – Interactive Power BI report.</li>
+</ul>
+
+<h2>🎯 Final Recommendation</h2>
+<p>
+Northwind Traders should balance its operational efficiency with a renewed focus on <strong>customer retention</strong>. The data clearly demonstrates that a small cohort of VIP clients drives a disproportionate share of revenue. By implementing a formal win-back strategy for at-risk customers and optimizing inventory ahead of seasonal peaks, Northwind can maximize revenue growth while mitigating supply chain risks.
+</p>
+
+<h2>👤 Author</h2>
+<p>
+<strong>Santiago Guzmán</strong><br/>
+</p>
 </ul>
 </div>
 
