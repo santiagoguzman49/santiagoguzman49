@@ -7,7 +7,7 @@
     <div align=center>
         <a href="https://www.linkedin.com/in/santiagoguzman49/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://mail.google.com/mail/u/1/?pli=1#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail" alt="Gmail" /></a>
-        <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>        
+        <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>        
     </div>
     <div align=left>
         <br>
